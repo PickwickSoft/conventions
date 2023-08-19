@@ -1,4 +1,4 @@
-# Branch Name Conventions
+# Branch Naming Conventions
 
 - Use lowercase letters.
 - Separate words with hyphens (-).
