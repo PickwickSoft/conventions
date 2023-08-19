@@ -1,0 +1,2 @@
+# conventions
+PickwickSoft Development Conventions
