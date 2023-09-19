@@ -8,7 +8,7 @@
 - Prefix bug fix branches with _bugfix/_.
 - Prefix release branches with _release/_.
 - Prefix hotfix branches with _hotfix/_.
-- Prefix documentation branches with _docs/_.
+- Prefix documentation branches with _documentation/_.
 - Add _wip/_ prefix for work in progress branches.
 - Include "#" followed by the issue number and a slash (/) before the branch name.
 
